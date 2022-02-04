@@ -68,7 +68,7 @@ border-right: none;
 
     
 } */
-@media  (max-width:400px){
+@media  (max-width:500px){
     .main-container .container .boxtext{
         font-size: 4vh;
         display: flex;
